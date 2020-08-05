@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Holiday Storage Tips</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Questions you might be asking yourself this time of year are “Can’t we come up with a better way to store all this stuff?” or “Where do we keep our holiday things for easy access?” ">
+    <meta name="author" content="Hilary Evans">
+    
+    <meta property="og:title" content="Holiday Storage Tips">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://goperiwinkle.com/blogs/holiday-storage-tips">
+    <meta property="og:image" content="../images/blog/holiday.jpg">
+    <meta property="og:description" content="Questions you might be asking yourself this time of year are “Can’t we come up with a better way to store all this stuff?” or “Where do we keep our holiday things for easy access?” ">
+    <link rel="stylesheet" type="text/css" href="../styles.css" >
+  </head>
+
+  <body>
+    <header class="simple-nav">
+      <div class="nav-bar nav-colored" >
+        <a href="../"><img src="../images/logo.png" id="header-img" alt="Logo"></a>
+        <nav>
+          <label for="toggle">
+            <div class="hamburger-button">
+              <div class="hamburger-bar"></div>
+              <div class="hamburger-bar"></div>
+              <div class="hamburger-bar"></div>
+            </div>
+          </label>
+          <input type="checkbox" id="toggle"/>
+          <div class="menu">
+            <a href="../as-seen-on">As Seen On</a>
+            <a href="../story">Story</a>
+            <a href="../faq">FAQ</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <article>
+        <h1>Holiday Storage Tips</h1>
+        <p class="bold">by: Hilary Evans</p>
+        <p>October 10, 2019</p>
+        <p>It’s the most wonderful time of the year! Quality family time, tasty Christmas cookies, and decking the halls are some of our most favorite things about this time of the year. The hustle and bustle has begun! While the winter months are upon us with much excitement to offer, they can also stir up some feelings of overwhelm and disorganization.
+        </p><p><img class="float-right" src="../images/blog/holiday.jpg" alt="photo of ornament holding a heart"/>
+        One thing about the holiday season that seems to bring forth some anxiousness among people is the extra decorations around the house. Christmas trees, lights, ornaments, adorable little seasonal knick knacks...we love them! But all that extra fun we look forward to bringing out each year requires a lot of extra work. Questions you might be asking yourself this time of year are “Can’t we come up with a better way to store all this stuff?” or “Where do we keep our holiday things for easy access?” 
+        </p><p>
+        Let’s tackle each of these questions Periwinkle style! With a few simple tips, we hope to address these common concerns among many holiday lovers. 
+        </p>
+        <h2>“Can’t we come up with a better way to store all this stuff?”</h2>
+        <p>
+        Yes, you can! Let us help. We recommend sorting ALL your holiday and seasonal decorations into groups. This may take a while, so set aside an hour or two to make sure you can devote your full attention to decluttering! 
+        </p><p>
+        If you have a minimal stock of decor, you may consider grouping things by season (summer, winter, fall, spring). If you have more holiday-specific items, sort things by particular holiday (Valentine’s Day, Easter, 4th of July, etc.). Holidays with the most inventory may need to be grouped more specifically. For example, instead of having a bin with ALL Christmas items, try grouping them by type (Christmas lights, ornaments, nativity set, etc.) and placing in like-sized bins. 
+        </p>
+        <h2>“Where do we keep our holiday things for easy access?”</h2>
+        <p>
+        Before you sort and consolidate your holiday items, designate an area in your home or garage specifically meant for them. Depending on your space, this could be an extra closet or a shelf in the garage. 
+        </p><p>
+        Invest in clear plastic bins to store your decor. Trust us, this makes accessibility a piece of cake. Label the outside of the bins with your favorite type of label. Don’t feel like you need to spend money on a fancy label maker! You can use painter’s tape and a sharpie and still achieve a clear and cohesive look. The one thing you must remember when labeling is to be specific. If the bin is holding one type of item or multiple variations of items, be sure you clearly indicate on the label. You will appreciate the detailed labels and being able to see what is inside your bins when it’s time to decorate next year!
+        </p><p>
+        Another quick tip: have some twist ties, rubber bands, and plastic baggies to hold together items that could get easily tangled, like Christmas lights, garland, etc. 
+        </p><p>
+        Happy Holidays, Periwinkle family and friends! We hope that our holiday storage tips will help you stay organized this season!
+        </p>
+      </article>
+    </main>
+  
+    <footer>
+      <p><a href="../as-seen-on">As featured on PBS, KOTV News on 6, Tulsa World, KRMG, and Start Up TV Show.</a></p>
+      <p><a id="footer-phone" href="tel:19189479460">(918) 947-9460</a></p>
+      <ul class="footer-nav">
+        <li><a href="../before-and-afters">Before and Afters</a></li>
+        <li><a href="../jobs">Jobs</a></li>
+        <li><a href="../team">Team</a></li>
+        <li><a href="../blog">Blog</a></li>
+      </ul>
+      <p>&copy Periwinkle 2019</p>
+    </footer>
+    <div data-token="BBLQCiUVCHBXhUGnzfK1AIRpACYfloJpsPs7jTOPRT0dVGD5ng" class="romw-reviews"></div>
+    <script src="https://reviewsonmywebsite.com/js/embedLoader.js?id=16985fd9e429040ba7c6" type="text/javascript"></script>
+    <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()</script>
+    <script src="../js/scroll.js"></script>
+  </body>
+</html>

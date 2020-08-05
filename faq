@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Periwinkle - FAQ</title>
+    <meta name="description" content="Frequently asked questions from our community.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styles.css" >
+    <meta property="og:title" content="Periwinkle">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://goperiwinkle.com/faq">
+    <meta property="og:image" content="images/header-background.jpg">
+    <meta property="og:description" content="Garage Cleaning & Organization">
+  </head>
+
+  <body>
+    <header class="simple-nav">
+      <div class="nav-bar nav-colored">
+        <a href="../"><img src="images/logo.png" id="header-img" alt="Logo"></a>
+        <div class="nav-bar" id="nav">
+          <a href="/"><img src="images/logo.png" id="header-img" alt="Logo"></a>
+          <nav>
+            <label for="toggle">
+              <div class="hamburger-button">
+                <div class="hamburger-bar"></div>
+                <div class="hamburger-bar"></div>
+                <div class="hamburger-bar"></div>
+              </div>
+            </label>
+            <input type="checkbox" id="toggle"/>
+            <div class="menu">
+              <a href="as-seen-on">As Seen On</a>
+              <a href="story">Story</a>
+              <a href="faq">FAQ</a>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <h1 class="centered">Frequently Asked Questions</h1>
+      <hr>
+      <h3 class="centered">We believe the Periwinkle Transformation is a life changing experience</h3>
+        <p class="centered">But you don't need to be worried about the change. Below we have addressed some of the most frequently asked questions, and if there are any that are missing, please kindly let us know and we will get you an answer!</p>
+      <hr>
+      <h3>Who are you?</h3>
+        <p>Periwinkle is a company founded by 3 best friends who met in high school at Lincoln Christian School in 2007. After winning our school's first state championship, we all went our separate ways to college, then to the real world. In January of 2017, one of our co-founders Cole Johnson got laid off from his cushy manufacturing job and left jobless to support his family. Unwilling to leave Cole on his own, Jordo and Seth decided to start Periwinkle and have Cole lead the company. Since then, we have been featured on the cover of Tulsa World Legal and Business News, KOTV News on 6, KRMG, KIVA, October 2018's issue of Tulsa People, and, coming this fall - PBS and Amazon Prime's Start-Up. Today, Periwinkle operates solely in Oklahoma, but if the three co-founders have anything to say about it, that will be changing very soon.</p>
+        <p>For more on our story, check out our Story page.</p>
+      <hr>
+      <h3>What exactly do you guys do?</h3>
+        <p>The goal of every Periwinkle Transformation is to create the garage that our customers have always dreamed of. Whether the goal is simply to fit both of your cars into the garage, get everything off of the floor, add more shelving and storage options, or anything else that would make your garage a peaceful, usable, and efficient addition to your home.</p>
+        <p>We listen to your dream, then we make it a reality.</p>
+      <hr>
+      <h3>What is a Periwinkle Transformation?</h3>
+        <p>The Periwinkle Transformation is our flagship service and the reason we are getting national attention. Our transformation comprises of 3 primary steps.</p>
+        <p>First, we Clear. Clearing involves taking every item out of your garage while simultaneously intelligently sorting items and categorizing them together, separating garbage, and preparing your garage for a deep clean.</p>
+        <p>Second, we Clean. After your garage is completely empty, we will literally clean it from the ceiling to the floor. If you've every had your car detailed, this is what you can expect on the inside of your garage. We clean EVERYTHING including power-washing your garage floor to remove those pesky oil stains.</p>
+        <p>Lastly, we Restore. With your garage looking and smelling like a brand new garage, our team carefully and intelligently moves all your items back into their original places. After it's all said and done, you are left with a garage that you can take pride in.</p>
+        <hr>
+      <h3>What Should I Expect on the Day of My Transformation?</h3>
+        <p>We will show up at least 5 minutes early in our Purple Periwinkle Mobile. We always work in two's. All transformations are done within one day, most often within 5 hours. We understand that you have things to do and places to go, we work as fast as we can and deliver the highest quality of work possible. Your transformation will be faster and easier than you ever thought possible.</p>
+        <p>The Proof is in the Purple.</p>
+      <hr>
+      <h3>What is your service area?</h3>
+        <p>We service the greater Tulsa and Oklahoma City area. The map to the right is our rule of thumb service area, but if you'd like us to consider going outside the established service area, please give us a call and we will consider it!</p>
+      <hr>
+      <h3>How long will my Periwinkle Transformation take and what will it cost?</h3>
+        <p>On average, our Periwinkle Transformation (initial clean) service takes 4 hours to complete. We estimate that our service would take the average person 3-4x the time to complete, but because of our streamlined process and vast experience, we can provide a jaw dropping result in just a few short hours. You can trust us on this one, the Proof is in the Purple.</p>
+        <p>Our service is $150/hour but to get a good idea of what your transformation will cost, click on the button below to get your customized quote!</p>
+        <p><a class="typeform-share button cta-button purple-button" href="https://sethlewandowski.typeform.com/to/z2MJuD" data-mode="popup" target="_blank">Get My Quote</a></p>
+      <hr>
+      <h3>Are you bonded and insured?</h3>
+        <p>Yes, we are both bonded and insured.</p>
+      <hr>
+      <h3>Are you able to remove oil stains out of concrete?</h3>
+        <p>Yes, we use a commercial grade power washer and a proprietary degreaser formula that we have dervied from our vast experience cleaning garages to get those stains up as best as possible. Please remember that because many of these oil stains have been built up over many years, sometimes we cannot remove the stains entirely on the first clean, but they do continue to come out with additional powerwashing/degreasing treatments provided through our Periwinkle Sweep.</p>
+      <hr> 
+      <h3>Do you dispose of paint cans?</h3>
+        <p>Yes! We are able to responsibly dispose of old paint cans for an additional $3 per paint can. The additional fee is as a result of the time and labor intensive process of legally disposing of old paint cans.</p>
+      <hr>
+      <h3>Are you a cleaning company or an organization company?</h3>
+        <p>We are both! We are experts on space management, cleaning, and organization so you can expect your garage to have all three of these features when your Periwinkle Transformation is complete.</p>
+      <hr>
+      <h3>What forms of payment do you accept?</h3>
+        <p>We accept any US-issued and most internationally-issued magstripe or chipcards bearing a Visa, MasterCard, American Express, Discover, JCB, or UnionPay logo. We can also accept cash & Apple Pay.</p>
+      <hr>
+      <h3>What is your policy regarding your required deposit to get on the schedule?</h3>
+        <p>We require a $100 non-refundable deposit to get on the Periwinkle calendar. This deposit will be applied as a credit to your final invoice as long as you do not cancel or reschedule within 48 hours of your scheduled appointment. If you must reschedule or cancel, another $100 deposit will be required to get back on the schedule and only that deposit will be applied to your final invoice.</p>
+      <hr>
+      <h3>The Periwinkle Promise</h3>
+        <p>We make the process of cleaning and organizing fun and easy. We promise that working with Periwinkle will be a fun and enjoyable experience and will make you wish that every service company was like Periwinkle. That's our promise.</p>
+        <p>#GoPeriwinkle</p>
+      <hr>
+      <h3>What did we miss?</h3>
+        <p><a class="cta-button purple-button" href="sms://+19189479460">Text us your question!</a></p>
+    </main>
+  
+    <footer>
+      <p><a href="https://www.goperiwinkle.com/as-seen-on">As featured on PBS, KOTV News on 6, Tulsa World, KRMG, and Start Up TV Show.</a></p>
+      <p><a id="footer-phone" href="tel:19189479460">(918) 947-9460</a></p>
+      <ul class="footer-nav">
+        <li><a href="before-and-afters">Before and Afters</a></li>
+        <li><a href="jobs">Jobs</a></li>
+        <li><a href="team">Team</a></li>
+        <li><a href="blog">Blog</a></li>
+      </ul>
+      <p>&copy Periwinkle 2019</p>
+    </footer>
+    <div data-token="BBLQCiUVCHBXhUGnzfK1AIRpACYfloJpsPs7jTOPRT0dVGD5ng" class="romw-reviews"></div>
+    <script src="https://reviewsonmywebsite.com/js/embedLoader.js?id=16985fd9e429040ba7c6" type="text/javascript"></script>
+    <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()</script>
+    <script src="js/scroll.js"></script>
+  </body>
+</html>

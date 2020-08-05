@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Team</title>
+    <meta name="description" content="Periwinkle: Garage Cleaning and Beyond">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styles.css" >
+    <meta property="og:title" content="Periwinkle">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://goperiwinkle.com/team">
+    <meta property="og:image" content="images/header-background.jpg">
+    <meta property="og:description" content="Garage Cleaning & Organization">
+  </head>
+
+  <body>
+    <header class="simple-nav">
+      <div class="nav-bar nav-colored">
+        <a href="../"><img src="images/logo.png" id="header-img" alt="Logo"></a>
+        <div class="nav-bar" id="nav">
+          <a href="/"><img src="images/logo.png" id="header-img" alt="Logo"></a>
+          <nav>
+            <label for="toggle">
+              <div class="hamburger-button">
+                <div class="hamburger-bar"></div>
+                <div class="hamburger-bar"></div>
+                <div class="hamburger-bar"></div>
+              </div>
+            </label>
+            <input type="checkbox" id="toggle"/>
+            <div class="menu">
+              <a href="as-seen-on">As Seen On</a>
+              <a href="story">Story</a>
+              <a href="faq">FAQ</a>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <h1 class="centered">The Team</h1>
+      <hr>
+      <div class="team">
+        <img src="images/team/jordan.jpg" alt="jordan">
+        <h3>Jordo Evans</h3>
+        <p class="bold">Co-Founder and CEO</p>
+        <p>Jordo studied molecular biology at the University of Oklahoma and Northeastern State University. Shortly after earning his degree, Jordo embarked on a career in business. After leading the sales team at a local pharmacy benefit manager, Jordo decided to strike out on his own and started Periwinkle. Jordo now leads the company by serving as the current CEO.</p>
+        <p>Jordo is married to the love of his life whom he met in a ballroom dancing class at OU.</p>
+      </div>
+      <hr>
+      <div class="team">
+        <img src="images/team/cole.jpg" alt="cole">
+          <h3>Cole Johnson</h3>
+          <p class="bold">Co-Founder</p>
+          <p>Cole has spent the last 3 years working in Health and Safety for leading manufacturers in the Tulsa area. A victim of downsizing, Cole's layoff was the spark that started Periwinkle. With a bachelors of science degree in Health and Safety Management, membership in the American Society of Safety Engineers, and certification as an EMT, Cole makes sure that safety at Periwinkle is always a top priority. The Proof is in the Purple.</p>
+          <p>Cole is married to his high school sweetheart and is the proud father of a Golden Doodle named Sammy.</p>
+      </div>
+      <hr>
+      <div class="team">
+        <img src="images/team/seth.jpg" alt="seth">
+          <h3>Seth Lewandowski</h3>
+          <p class="bold">Co-Founder</p>
+          <p>Seth ran track for the University of Oklahoma and earned his B.B.A. in Finance from the Price College of Business. After college, Seth entered the workforce as a Financial Analyst at ONEOK in Tulsa, OK. After spending a few years working in San Francisco, CA, Seth has moved back to Tulsa to help manage the growth of Periwinkle. Currently, he works as a Project Manager for SONO Hospice Solutions along with his responsibilities of leading the strategic efforts of Periwinkle.</p>
+      </div>
+      <hr>
+      <div class="team">
+        <img src="images/team/hilary.jpeg" alt="hilary">
+          <h3>Hilary Evans</h3>
+          <p class="bold">Social Media Superhero</p>
+          <p>Hilary graduated from the University of Oklahoma with a B.S. in Elementary Education. After college, Hilary was hired to teach at one of the most prestigious private schools in Oklahoma. Hilary leads the social media efforts at Periwinkle.</p>
+      </div>
+      <hr>
+      <h2 class="centered">Advisors</h2>
+        <div class="team">
+          <img src="images/team/hall.jpg" alt="Hall">
+          <h3>J. Hall C. Thorp, DSL, MBA</h3>
+          <p>Dr. Thorp has been a trusted advisor and mentor to the leadership team at Periwinkle since their inception. Specializing in strategy and negotiation, Dr Thorp has guided the Periwinkle team through numerous difficult situations and decisions.  Dr. Thorp’s primary areas of expertise are in the areas of negotiations, organizational strategy, entrepreneurship, and leadership. After gaining an MBA from the Kenan-Flagler Business School at UNC-Chapel Hill, he joined Trinity Research, LLC which provides consulting and negotiation services to clients in the health care industry and other non-medical companies in various industries. Later, Dr. Thorp achieved a doctorate in corporate strategy and leadership.</p>
+        </div>
+        <hr>
+        <div class="team">
+          <img src="images/team/mark.jpg" alt="Mark">
+          <h3>Mark Lewandowski, Ph.D., CM&AA</h3>
+          <p>Dr. Mark Lewandowski helped guide the Periwinkle founding team through the startup phase by offering legal and organizational advice. He continues to offer support on business strategy and growth. After finishing his Ph.D. in Creativity and Innovation, Mark applied that knowledge to systems and workflow processes in healthcare. Mark served as President of Provider Medical Pharmaceutical, Senior Vice President of National Medical Health Card, Inc. Mark has post-doctoral academic training at Loyola of Chicago and Stanford University and serves on the board of a number of non-profit organizations in his hometown of Tulsa, Oklahoma.</p>
+        </div>
+        <hr>
+        <div class="team">
+          <img src="images/team/nick.jpg" alt="photo of Nick">
+          <h3>Nick Redwine, MBA</h3>
+          <p>Nick has been part of the Periwinkle team’s success by offering continued guidance on sales and marketing strategy as well as financial analysis. Nick started one of the most successful baseball card and memorabilia stores in the United States and sold the business in 2017 after operating it for over 20 years. Nick has developed a small business management curriculum called The 1 Hour MBA that teaches small business owners how to effectively manage their businesses. Nick has been an entrepreneur for over 27 years and a college professor for 23 years, teaching marketing and management courses. Nick currently works as a business advisor and travels the world teaching his 1 Hour MBA curriculum via live events.</p>
+        </div>
+    </main>
+  
+    <footer>
+      <p><a href="https://www.goperiwinkle.com/as-seen-on">As featured on PBS, KOTV News on 6, Tulsa World, KRMG, and Start Up TV Show.</a></p>
+      <p><a id="footer-phone" href="tel:19189479460">(918) 947-9460</a></p>
+      <ul class="footer-nav">
+        <li><a href="before-and-afters">Before and Afters</a></li>
+        <li><a href="jobs">Jobs</a></li>
+        <li><a href="team">Team</a></li>
+        <li><a href="blog">Blog</a></li>
+      </ul>
+      <p>&copy Periwinkle 2019</p>
+    </footer>
+    <div data-token="BBLQCiUVCHBXhUGnzfK1AIRpACYfloJpsPs7jTOPRT0dVGD5ng" class="romw-reviews"></div>
+    <script src="https://reviewsonmywebsite.com/js/embedLoader.js?id=16985fd9e429040ba7c6" type="text/javascript"></script>
+    <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()</script>
+    <script src="js/scroll.js"></script>
+  </body>
+</html>

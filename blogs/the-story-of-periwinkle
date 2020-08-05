@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Our Story</title>
+    <meta name="description" content="The Story of Periwinkle is truly one of a kind. You’ll really wanna hear this, I’ll tell it to you in a rhyme.">
+    <meta name="author" content="Jordan Evans">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../styles.css" >
+    <meta property="og:title" content="Periwinkle">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://goperiwinkle.com/blogs/the-story-of-periwinkle">
+    <meta property="og:image" content="../images/header-background.jpg">
+    <meta property="og:description" content="The Story of Periwinkle is truly one of a kind. You’ll really wanna hear this, I’ll tell it to you in a rhyme.">
+  </head>
+
+  <body>
+    <header class="simple-nav">
+      <div class="nav-bar nav-colored" >
+        <a href="../"><img src="../images/logo.png" id="header-img" alt="Logo"></a>
+        <nav>
+          <label for="toggle">
+            <div class="hamburger-button">
+              <div class="hamburger-bar"></div>
+              <div class="hamburger-bar"></div>
+              <div class="hamburger-bar"></div>
+            </div>
+          </label>
+          <input type="checkbox" id="toggle"/>
+          <div class="menu">
+            <a href="../as-seen-on">As Seen On</a>
+            <a href="../story">Story</a>
+            <a href="../faq">FAQ</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <article class="main">
+        <p>October 10, 2019</p>
+        <h1>The Story of Periwinkle</h1>
+        <p class="bold">by: Jordo Evans</p>
+        <h4>The Story of Periwinkle is truly one of a kind.</h4>
+        <p>You’ll really wanna hear this, I’ll tell it to you in a rhyme.<br>
+          Now Seth and I were eager. I should say eager-beaver.<br>
+          Entrepreneurs at heart, we can’t live, we can’t breath or<br>
+          Stomach the idea of always being an employee. <br>
+          We would rather get an attorney. Pull-off some insurance fraud-and live off the money.<br>
+          Don’t worry. That’s a joke. I Intended it to be funny.<br>
+          Anyway, back to the point. I am trying to paint a picture. <br>
+          We are the type of guys who’ve always dreamed of something bigger. <br>
+          And dream we did. Every morning on a call. <br>
+          Seth in San Fran, I in Tulsa. We didn’t stall.<br>
+          Ideas kept coming. They were flowing. Milk and honey.<br> 
+          Side note: The best part about ideas is, they didn’t cost us any money.<br> 
+        </p>
+          <h4>Enter Cole Johnson, an old high school friend.</h4>
+        <p>
+          He went to college, worked hard, played sticks and got the short end.<br> 
+          He was laid-off by his employer due to budget cuts.<br>
+          So Cole was left wondering “Okay, now what?”<br>
+          Word travels fast and it caught my attention.<br>
+          The problem wasn’t Cole. It was economic recession. <br>
+          “Seth, our friend Cole was laid off and unexpectedly. What can we do to help him? <br>
+          He isn’t having any luck and he--”. <br>
+          Seth interrupted me. He said, “Maybe we should start a company.” <br>
+          A company… I had no reluctancy. <br>
+          In fact, if I recall correctly, I jumped with glee.<br>
+          A company could be the answer. <br>
+          It was, luckily.<br>
+        </p>
+          <h4>So off we go, we scrambled up as much cash as we could muster.</h4>
+        <p>
+          $1,600. Humble beginnings, but it was more than enough, Sir. <br>
+          To start a business in a nation that is truly great.<br>
+          We have the freedom to build our dreams in the United States.<br>
+          After a year of garages, we needed to change our name. <br>
+          The name we had was boring. Do you remember it? “It was lame.”<br>
+          Back to the drawing board for a name that could outlast us.<br>
+          We asked people what they thought about “Periwinkle”. It was disastrous.<br>
+          I kid you not, every single person laughed at us. <br>
+          Garage cleaning? Periwinkle? That is preposterous.<br>
+          Though we did appreciate everyone being honest with us.<br>
+          Yes, it’s a crazy name. That’s why it dawned on us. <br>
+        </p>
+          <h4>We went all in with Periwinkle. We changed our name over night.</h4>
+        <p>
+          Our name is anything but plain and simple. Just the way we like. <br>
+          Periwinkle perfectly provides customers with a promise.<br>
+          We promise exceptional customer experience. Honest! <br>
+          We built our business from the ground up around this purpose.<br>
+          We don’t just clean garages, we provide a trust-worthy servie. <br>
+          We are smashing the competition. No contest.<br>
+          So next time you stand in your garage and sigh with stress.<br>
+          Behold the sight of the mess, the dust that seems to caress.<br>
+          All the junk in your “garage”, home-sweet-home for pests.<br>
+          Yes mice, sometimes rats, but count on a spiders nest.<br>
+          I must confess, owning a business has been quite the test.<br>
+          But our persistence is a testament to our relentlessness.<br>
+          Be our guest and question this. Witness how our energy is infectious.<br>
+          You know the saying: “Cleanliness is next to Godliness”?<br>
+          In confidence, we predict a global service dominance.<br>
+          Your garage depends on Periwinkle’s competence.<br>
+          It’s common sense, that we’ve developed quite the tolerance for a mess.<br>
+          Every homeowner deserves a garage that they can digest.<br>
+          Sorry for getting off track there for a bit. I digress.<br>
+          Where was I? Oh yeah.<br>
+          Next time you stand in your garage and sigh with stress.<br>
+          Pick up the phone, dial us, and take a deep breath. <br>
+        </p>
+          <h4>Now let me tell you about how we got the word out.</h4>
+        <p>
+          It wasn’t cold calls, billboards, or card stock handouts. <br>
+          Believe it or not, our company was in the local paper.<br>
+          The Tulsa World proved to be a game changer. <br>
+          A few months later, we were featured on the local news.<br>
+          Channel 6, you made us shine. Kudos to you and the crew.<br>
+          We also got on the radio and did some podcasting. <br>
+          ALL of this was free, by the way… cue the gasping.<br>
+          Last but not least, we managed to get on TV. <br>
+          PBS, a show called Start-Up. “Look mom! I’m on TV!”<br>
+          All of a sudden, Periwinkle was on everyone’s radar. <br>
+          Calls from NY, California, even Canada! Need I say more?!<br>
+          All this to say that we are enjoying every moment.<br>
+          The best part about Periwinkle is that it’s completely ours and we own it. <br>
+          But there is no better feeling than helping out a customer.<br>
+          Spilled milk in your garage? That’s nothing to throw a fuss over.<br>
+          Remember to treat others the way you want to be treated.<br>
+          We live by that quote. It’s in our manual. Here read it. <br>
+          We hope that everything we do for the world comes full-circle.<br>
+          We’re exceeding expectations. Want proof? It’s in the Purple.
+        </p>
+      </article>
+    </main>
+    
+    <footer>
+      <p><a href="../as-seen-on">As featured on PBS, KOTV News on 6, Tulsa World, KRMG, and Start Up TV Show.</a></p>
+      <p><a id="footer-phone" href="tel:19189479460">(918) 947-9460</a></p>
+      <ul class="footer-nav">
+        <li><a href="../before-and-afters">Before and Afters</a></li>
+        <li><a href="../jobs">Jobs</a></li>
+        <li><a href="../team">Team</a></li>
+        <li><a href="../blog">Blog</a></li>
+      </ul>
+      <p>&copy Periwinkle 2019</p>
+    </footer>
+    <div data-token="BBLQCiUVCHBXhUGnzfK1AIRpACYfloJpsPs7jTOPRT0dVGD5ng" class="romw-reviews"></div>
+    <script src="https://reviewsonmywebsite.com/js/embedLoader.js?id=16985fd9e429040ba7c6" type="text/javascript"></script>
+    <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()</script>
+    <script src="../js/scroll.js"></script>
+  </body>
+</html>

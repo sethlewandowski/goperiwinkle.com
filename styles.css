@@ -1,0 +1,425 @@
+/*  Periwinkle Style Sheet   */
+
+
+/*Imports*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto&display=swap');
+
+/*Site Wide*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.8em;
+}
+a {
+  color: #552d7c;
+}
+main {
+  padding: 40px 0px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+hr {
+  margin: 30px 0px 30px 0px;
+}
+h1, h2, h3, h4{
+  margin-top: 20px;
+  line-height: 3rem;
+}
+h1{
+  font-size: 32pt;
+  font-family: 'Roboto', sans-serif;
+}
+h2{
+  font-size: 28pt;
+  font-family: 'Roboto', sans-serif;
+}
+h3{
+  font-size: 24pt;
+  font-family: 'Roboto', sans-serif;
+}
+h4{
+  font-size: 20pt;
+  font-family: 'Roboto', sans-serif;
+}
+p{
+  font-size: 14pt;
+  padding: 10px 0;
+  font-family: 'Open Sans', sans-serif;
+}
+img{
+  max-width: 400px;
+}
+
+iframe {
+  max-width: 100%;
+}
+img.home-page{
+  max-width: 100%;
+}
+.flex-item h3, p{
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+
+
+/*Header Specific*/
+header {
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/header-background.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.announcement-bar{
+  top: 0;
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  text-align: center;
+  color: #552d7c;
+  z-index: 101;
+}
+#announcement-message{
+  margin-top: 0;
+  color: #552d7c;
+}
+.main-menu{
+  height:70px;
+}
+.main-menu-links{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+header.simple-nav{
+  height: 0;
+  margin-bottom: 60px;
+}
+.nav-bar{
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  z-index:100;
+}
+#header-img {
+  float: left;
+  padding: 15px;
+  max-height: 45px;
+  max-width: 100%;
+}
+nav ul {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  justify-content: right;
+  float: right;
+}
+nav li {
+  display: inline-block;
+  padding-top: 25px;
+  position: relative;
+}
+nav a {
+  color: white;
+  padding-right: 30px;
+  text-decoration: none;
+  font-size: 24px;
+}
+.topnav .icon {
+  display: none;
+}
+.cta{
+  position:relative;
+  top: 350px;
+  color: white;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* NAV SPECIFIC SECTION */
+nav{
+  text-align: right;
+  color: white;
+  position: fixed; 
+  width: 100%;
+  z-index: 100; 
+}
+.menu{
+  margin: 0 30px 0 0;
+}
+.menu a{
+  clear: right;
+  margin: 0 10px;
+  line-height: 70px;
+  color: white;
+}
+.menu a:hover{
+  text-decoration: underline;
+}
+header label{
+  margin: 0 40px 0 0;
+  font-size: 40px;
+  line-height: 70px;
+  display: none;
+  float: right;
+  right:0;
+  top: 0;
+  z-index: 99;
+}
+#toggle{
+  display:none;
+}
+
+/*Buttons and Calls to Action*/
+.cta-button{
+  z-index: 99;
+  border-width: 2px;
+  font-weight: bold;
+  display:inline-block;
+  text-decoration:none;
+  cursor:pointer;
+  font-size:20px;
+  line-height:50px;
+  text-align:center;
+  margin:0;
+  height:50px;
+  padding:0px 33px;
+  border-radius:25px;
+  max-width:100%;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+.purple-button{
+  background-color: #552d7c;
+  color: white;
+}
+.white-button{
+  background-color: white;
+  color: #552d7c;
+}
+.main-menu-colored{
+  background-color: #552d7c;
+}
+.main-menu-transparent{
+  background-color: transparent;
+}
+.hamburger-button{
+  top: 70px; 
+  right: 20px;
+  position: fixed;
+  z-index: 100;
+}
+.hamburger-bar{
+  border-radius: 25px;
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 6px 0;
+}
+
+/*Flex Box Controlls*/
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  max-width: 100%
+}
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  max-width: 280px;
+  margin: 10px 10px 20px 10px;
+  align-self: center;
+}
+
+/*Classes, Alignment, color, unique*/
+.align-right{
+  align-items: right;
+}
+.float-right{
+  float: right;
+}
+div.team {
+  overflow: hidden;
+}
+.team img{
+  float: left;
+  max-width: 300px;
+  margin-right: 30px;
+}
+.bold{
+  font-weight: bold;
+}
+.centered{
+  text-align: center;
+}
+.gallery img{
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+
+/*Caption Effects for Before and Afters*/
+.captionEffect{
+  position: relative;
+  overflow: hidden;
+  max-width: 90%;
+  margin:0 auto;
+}
+.captionEffect img {
+  width: 100%;
+  display: block;
+  -webkit-transition: 800ms;
+  -o-transition: 800ms;
+  transition: 800ms;
+}
+.captionEffect figcaption {
+  color: white;
+  position: absolute;
+   -webkit-transition: 800ms; 
+   -o-transition: 800ms; 
+  transition: 800ms;
+  width: 100%;
+}
+.captionEffect[data-effect="fade-in"] figcaption {
+  top: 0;
+  left: 0;
+  height: 100%;
+  opacity: 0;
+}
+.captionEffect[data-effect="fade-in"]:hover figcaption {
+  top: 0;
+  left: 0;
+  opacity: 1;
+}
+
+
+
+/*Footer CSS*/
+footer {
+  background-color: #552d7c;
+  color: white;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 50px;
+}
+footer p{
+  max-width: 95%;
+  margin: auto;
+  padding: 10px 0px 10px 0px;
+}
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 16pt;
+}
+footer li {
+  display: inline-block;
+  padding: 10px; 
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+#footer-phone {
+  font-size: 30px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+
+
+/*Small Screen*/
+@media only screen and (max-width : 800px) {
+
+  main{
+    max-width: 90%;
+  }
+  img{
+    max-width: 100%;
+  }
+  header label {
+    display: block;
+    cursor: pointer;
+  }
+  .main-menu-links {
+    text-align: center;
+    width: 100%;
+    display: none;
+  }
+  .main-menu-links a{
+    display:block;
+    margin: 0;
+  }
+  #toggle:checked + .main-menu-links {
+    display: block;
+    background-color: #552d7c;
+    padding-top: 70px;
+  }
+  #header-img {
+  float: left;
+  padding: 15px;
+  max-height: 35px;
+  max-width: 100%;
+  }
+  .team img{ 
+    float: none;
+    padding-top: 20px;
+  }
+  content {
+    width: 95vw;
+    margin: 0 auto;
+  }
+  .cta{
+    position:relative;
+    top: 200px;
+    color: white;
+    width: 95vw;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .topnav a:not(.icon) {
+    display: none;
+  }
+  .topnav a.icon { 
+    float: right;  
+    display: block;
+  }
+  
+  .topnav.responsive {
+    position: fixed;
+    top:0;
+    right: 0;
+    background-color: #552d7c; 
+    width: 170px;
+    float: right;
+    text-align: right;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .topnav.responsive a.icon {
+  }
+  .topnav.responsive a {
+    display: block;
+  }
+}
+
+

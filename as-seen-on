@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>As Seen On</title>
+    <meta name="description" content="Periwinkle in the news!">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styles.css" >
+    <meta property="og:title" content="Periwinkle">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://goperiwinkle.com/as-seen-on">
+    <meta property="og:image" content="images/header-background.jpg">
+    <meta property="og:description" content="Garage Cleaning & Organization">
+  </head>
+
+  <body>
+    <header class="simple-nav">
+      <div class="nav-bar nav-colored">
+        <a href="../"><img src="images/logo.png" id="header-img" alt="Logo"></a>
+        <div class="nav-bar" id="nav">
+          <a href="/"><img src="images/logo.png" id="header-img" alt="Logo"></a>
+          <nav>
+            <label for="toggle">
+              <div class="hamburger-button">
+                <div class="hamburger-bar"></div>
+                <div class="hamburger-bar"></div>
+                <div class="hamburger-bar"></div>
+              </div>
+            </label>
+            <input type="checkbox" id="toggle"/>
+            <div class="menu">
+              <a href="as-seen-on">As Seen On</a>
+              <a href="story">Story</a>
+              <a href="faq">FAQ</a>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <h1 class="centered">As Seen On</h1>
+      <hr>
+      <div class="flex-container">
+        <a href="<https://www.pbs.org/video/periwinkle-tulsa-ok-pejklx/"><img src="images/pbs.png" class="flex-item"/></a>
+        <a href="https://www.kiva.org/lend/1488558"><img src="images/kiva.png" url="" class="flex-item"/></a>
+        <a href="http://www.newson6.com/story/38758552/inspiring-story-of-friendship-at-tulsa-home-and-garden-show"><img src="images/newson6.jpg" class="flex-item"/></a>
+        <a href="http://www.tulsapeople.com/Tulsa-People/October-2018/How-to-transform-your-garage-in-just-4-hours/"><img src="images/tulsapeople.jpg" url="" class="flex-item"/></a>
+        <a href="https://www.tulsaworld.com/business/tulsabusiness/four-high-school-friends-join-forces-to-form-garage-cleaning/article_5dcbc98c-c7af-5878-a90e-031d357509a0.html"><img src="images/tulsaworld.jpg" url="" class="flex-item"/></a>
+        <a href="https://www.krmg.com/"><img src="images/krmg.png" url="" class="flex-item"/></a>
+        <a href="http://startup-usa.com/episodes/season-6/Periwinkle-Tulsa-OK/Cole-Johnson-Jordan-Evans-and-Seth-Lewandowski"><img src="images/startup.png" url="" class="flex-item"/></a>
+      </div>
+      <hr>
+      <div class="">
+        <iframe width="512" height="332" src="https://player.pbs.org/viralplayer/3018914035/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless allowfullscreen></iframe>
+      <div class="">
+        <h2 class=""><a href="http://startup-usa.com/episodes/season-6/Periwinkle-Tulsa-OK/Cole-Johnson-Jordan-Evans-and-Seth-Lewandowski">PBS - Start Up</a></h2>
+          <h3 class="">Periwinkle / Tulsa, OK</h3>
+          <p class="">Season 6 Episode 9 | 26m 48s</p>
+          <p class="">Cole Johnson has a science degree in Health and Safety Management, a member of the American Society of Safety Engineers, and has a certification as an EMT. After a layoff from his Health and Safety job, he called on his friends Jordan and Seth to start a small business. Without hesitation, they collectively abandoned traditional employment and went all-in on Periwinkle.</p>
+          <p class="">Aired: 12/30/2018</p>
+          <p class="">Rating: NR</p>
+        </div>
+      </div>
+      <hr>
+      <h2><a href="http://www.tulsapeople.com/Tulsa-People/October-2018/How-to-transform-your-garage-in-just-4-hours/">How to Transform Your Garage in Just 4 Hours</a></h2>
+        <p>Achieve a well-organized garage with these fall cleaning tips from Periwinkle.</p>
+        <p>By: Lutie Rodriguez</p>
+      <hr>
+      <h2><a href="http://www.newson6.com/story/38758552/inspiring-story-of-friendship-at-tulsa-home-and-garden-show">News on 6 - Inspiring Story Of Friendship At Tulsa Home And Garden Show</a></h2>
+        <p>By Julia Benbrook News on 6</p>
+      <hr>
+      <h2><a href="https://www.tulsaworld.com/business/tulsabusiness/four-high-school-friends-join-forces-to-form-garage-cleaning/article_5dcbc98c-c7af-5878-a90e-031d357509a0.html">Four high school friends join forces to form garage-cleaning business</a></h2>
+        <p>By Stephanie Andre For the Tulsa Business & Legal News</p>
+
+
+    </main>
+  
+    <footer>
+      <p><a href="https://www.goperiwinkle.com/as-seen-on">As featured on PBS, KOTV News on 6, Tulsa World, KRMG, and Start Up TV Show.</a></p>
+      <p><a id="footer-phone" href="tel:19189479460">(918) 947-9460</a></p>
+      <ul class="footer-nav">
+        <li><a href="before-and-afters">Before and Afters</a></li>
+        <li><a href="jobs">Jobs</a></li>
+        <li><a href="team">Team</a></li>
+        <li><a href="blog">Blog</a></li>
+      </ul>
+      <p>&copy Periwinkle 2019</p>
+    </footer>
+    <div data-token="BBLQCiUVCHBXhUGnzfK1AIRpACYfloJpsPs7jTOPRT0dVGD5ng" class="romw-reviews"></div>
+    <script src="https://reviewsonmywebsite.com/js/embedLoader.js?id=16985fd9e429040ba7c6" type="text/javascript"></script>
+    <script> (myFunction() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()</script>
+    <script src="js/scroll.js"></script>
+  </body>
+</html>
