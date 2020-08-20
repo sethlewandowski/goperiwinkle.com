@@ -335,6 +335,8 @@ footer {
   width: 100%;
   text-align: center;
   padding-bottom: 50px;
+  bottom: 0;
+  position: absolute;
 }
 footer p{
   max-width: 95%;
