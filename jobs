@@ -14,28 +14,24 @@
   </head>
 
   <body>
-    <header class="simple-nav">
-      <div class="nav-bar nav-colored">
-        <a href="../"><img src="images/logo.png" id="header-img" alt="Logo"></a>
-        <div class="nav-bar" id="nav">
-          <a href="/"><img src="images/logo.png" id="header-img" alt="Logo"></a>
-          <nav>
-            <label for="toggle">
-              <div class="hamburger-button">
-                <div class="hamburger-bar"></div>
-                <div class="hamburger-bar"></div>
-                <div class="hamburger-bar"></div>
-              </div>
-            </label>
-            <input type="checkbox" id="toggle"/>
-            <div class="menu">
-              <a href="as-seen-on">As Seen On</a>
-              <a href="story">Story</a>
-              <a href="faq">FAQ</a>
-            </div>
-          </nav>
+    <header>
+      <nav class="site-header">
+        <div class="main-menu" id="main-menu">
+          <a class="main-menu-logo" href="/">
+            <img src="images/logo.png" id="header-img" alt="Logo">
+          </a>
+          <div id="hamburger" onClick="openNav()">
+            <div class="hamburger-bar"></div>
+            <div class="hamburger-bar"></div>
+            <div class="hamburger-bar"></div>
+          </div>
+          <div id="nav-menu" class="main-menu-links sidenav">
+            <a href="as-seen-on">As Seen On</a>
+            <a href="story">Story</a>
+            <a href="faq">FAQ</a>
+          </div>
         </div>
-      </div>
+      </nav>
     </header>
 
     <main>
@@ -63,6 +59,6 @@
     <div data-token="BBLQCiUVCHBXhUGnzfK1AIRpACYfloJpsPs7jTOPRT0dVGD5ng" class="romw-reviews"></div>
     <script src="https://reviewsonmywebsite.com/js/embedLoader.js?id=16985fd9e429040ba7c6" type="text/javascript"></script>
     <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()</script>
-    <script src="js/scroll.js"></script>
+    <script src="js/nav.js"></script>
   </body>
 </html>
