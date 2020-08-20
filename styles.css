@@ -11,6 +11,7 @@
 }
 html{
   min-height: 100%;
+  position: relative;
 }
 body {
   font-family: 'Open Sans', sans-serif;
