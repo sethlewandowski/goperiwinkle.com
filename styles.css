@@ -26,7 +26,7 @@ a {
   color: #552d7c;
 }
 main {
-  padding: 80px 0px;
+  padding: 80px 0px 300px 0px; /* 80 keeps the header off the page content and 300 keeps footer off bottom content*/
   max-width: 900px;
   margin: 0 auto;
 }
