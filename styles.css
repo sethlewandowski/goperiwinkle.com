@@ -8,7 +8,9 @@
 :root {
   /*--accent-color: #ec0772;*/
   --primary-color: #552d7c;
-
+}
+html{
+  min-height: 100%;
 }
 body {
   font-family: 'Open Sans', sans-serif;
