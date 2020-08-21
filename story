@@ -13,6 +13,7 @@
     <meta property="og:url" content="https://goperiwinkle.com/our-story">
     <meta property="og:image" content="images/header-background.jpg">
     <meta property="og:description" content="Our story begins in 2007 during our sophomore year of high school at Lincoln Christian School in Tulsa, Oklahoma.">
+    <script src="https://cdn.usefathom.com/script.js" site="JMYLHUYA" defer></script>
   </head>
 
   <body>
